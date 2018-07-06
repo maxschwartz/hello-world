@@ -1,2 +1,4 @@
 # hello-world
-Learning how to use GitHub!
+
+Read @ftrain on GitHub. Now I'm using downtime to (hopefully) improve my productivity. 
+
